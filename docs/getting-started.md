@@ -23,7 +23,7 @@ Install `next`, `react` and `react-dom` in your project:
 npm install next react react-dom
 ```
 
-Open `package.json` and add the following `scripts`:
+Open `package.json` and find the `scripts` section which will look like the following:
 
 ```json
 "scripts": {
